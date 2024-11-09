@@ -14,7 +14,7 @@
  
 <br>
  
-### Para sabe um pouco mais sobre mim!
+### Entre em contato comigo.
  
 <div> 
   <a href ="mailto:augustow789@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-ed1c24?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

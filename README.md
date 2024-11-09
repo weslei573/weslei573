@@ -17,7 +17,6 @@
 ### Para sabe um pouco mais sobre mim!
  
 <div> 
-  <a href="https://www.instagram.com/weslei.augusto.cruz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href ="" target="_blank"><img src="https://img.shields.io/badge/Gmail-3a464b?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href ="mailto:augustow789@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-3a464b?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href ="https://www.linkedin.com/in/wesley-augusto-64460624a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>

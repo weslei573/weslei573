@@ -14,7 +14,7 @@
 
 <div style="display: inline_block">
    <h1>Estou aprendendo</h1>
-   <img src="https://skillicons.dev/icons?i=js,java,react"/>
+   <img src="https://skillicons.dev/icons?i=js,java,postman,react"/>
 </div>
 
 <div> 

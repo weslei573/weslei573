@@ -8,12 +8,12 @@
 
 <div style="display: inline_block;" height="180em">
    <h1>Ferramentas e Tecnologias</h1>
-   <img src="https://skillicons.dev/icons?i=html,css,git,vscode,idea,ubuntu" />
+   <img src="https://skillicons.dev/icons?i=html,css,js,git,vscode,idea,ubuntu" />
 </div>
 
 <div style="display: inline_block">
    <h1>Estou aprendendo</h1>
-   <img src="https://skillicons.dev/icons?i=js,java,postman,react"/>
+   <img src="https://skillicons.dev/icons?i=java,spring,postman,mysql,postgres"/>
 </div>
 
 <div> 
